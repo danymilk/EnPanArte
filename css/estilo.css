@@ -6,7 +6,7 @@ body{
 /* Encabezado */
 
 h1{
-    color: rgb(210, 30, 210);
+    color: black;
     font-size: 70px;
     font-weight: 900;
     font-family: 'Gloria Hallelujah', cursive;
@@ -19,7 +19,7 @@ ul{
 }
 ul li a{
     text-decoration: none;
-    color: rgb(210, 30, 210);
+    color: black;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 40px;
@@ -30,7 +30,7 @@ ul li a{
     width: 900px;
 }
 h2{
-    color: rgb(210, 30, 210);
+    color:black;
     font-size: 50px;
     font-weight: 900;
     font-family: 'Gloria Hallelujah', cursive;
@@ -38,7 +38,7 @@ h2{
     padding-bottom: 30px; 
 }
 p{
-    color: rgb(210, 30, 210);
+    color: black;
     font-size: 30px;
     font-weight: 50;
     font-family: 'Gloria Hallelujah', cursive;
@@ -51,7 +51,7 @@ p{
 }
 ul li{
     text-decoration: none;
-    color: rgb(210, 30, 210);
+    color: black;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 20px;
@@ -59,7 +59,7 @@ ul li{
     margin: 30px
 }
 h3{
-    color: rgb(210, 30, 210);
+    color: black;
     font-size: 50px;
     font-weight: 900;
     font-family: 'Gloria Hallelujah', cursive;
@@ -67,7 +67,7 @@ h3{
     padding-bottom: 30px; 
 }
 form{
-    color: rgb(210, 30, 210);
+    color: black;
     font-size: 25px;
     font-weight: 900;
     font-family: 'Gloria Hallelujah', cursive;
